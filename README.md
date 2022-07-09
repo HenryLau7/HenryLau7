@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently an undergraduate in <a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a>.
-- 🌱 I’m currently learning machine learning.
-- 📫 How to reach me: yuanyeliu7 [AT] gmail [DOT] com
-- 💻 Here is my personal homepage: <a href="henrylau7.github.io">henrylau7.github.io</a>
+- 🔭 I’m an undergraduate in <a href="https://sds.fudan.edu.cn/">School of Data Science, Fudan University</a>.
+- 🌱 I’m learning machine learning.
+- 📫 Contact: yuanyeliu7 [AT] gmail [DOT] com
+- 💻 Personal homepage: <a href="henrylau7.github.io">henrylau7.github.io</a>
